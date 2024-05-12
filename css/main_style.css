@@ -1,0 +1,21 @@
+html {
+  margin: 20px;
+}
+
+body {
+  background-color: bisque;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+}
+
+h1 {
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 24pt;
+}
+
+#lazy_squirrel {
+  width: 30%;
+  border: 5px solid darkred;
+  border-radius: 10px;
+}
