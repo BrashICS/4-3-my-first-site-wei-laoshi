@@ -25,6 +25,7 @@ A demonstration was given in class and there are lots of helpful explanations an
 _Essentially_, HTML is for the _content_ of a page and CSS is for the _style_ of the page. This separation also helps with organization and you can apply the same style on any page you want without having to copy and paste the code!
 
 You will find a [CSS file](css/main_style.css) inside the [CSS folder](css). This file is being loaded by the [index.html](index.html) file on line 8:
+
 ```HTML
 <link rel="stylesheet" href="css/main_style.css">
 ```
@@ -35,7 +36,8 @@ You can create separate CSS files or use one file on your entire site to give it
 
 Over the next couple classes you are going to create a website with multiple pages and incorporate _content_, _images_, and _style_.
 
-#### Select from one of the following types of websites:
+#### Select from one of the following types of websites
+
 - **Personal Portfolio:** a site that showcases your skills, projects, and experiences. Create a digital presence for your creations.
 - **Blog or Personal Website:** a place where you can write about various topics that interest you or your own poetry or opinions.
 - **Restaurant / Cafe / Fictional Business:** design a site for a fictional small cafe or place to eat. Include a menu, location, hours of operation, contact details, images...
@@ -44,20 +46,22 @@ Over the next couple classes you are going to create a website with multiple pag
 - **Event Website:** design a website for a fictional event such as a conference, concert, or festival. Include the event schedule, location(s), guests or performers, ticketing details, etc...
 - **Have inspiration for a different idea?** Pitch it to your teacher!
 
-#### Your site **_must_** include the following:
+#### Your site **_must_** include the following
+
 - Multiple pages that link to each other (appropriately named and organized)
 - At least one external link to another page or resource on the Internet
 - Mutiple images, appropriately named and organized
 - _Some_ style elements to change sizes, colours, or locations to your liking
 - A _sources.html_ page that catalogs where you took information or images from for this site. (This is _mandatory_)
 
-#### Your site **_must not_** include:
+#### Your site **_must not_** include
+
 - Plagiarism (_stolen_ HTML or media)
 - Inappropriate language or images/media
 - Images of classmates or people without their permission
 - Private information (this is a public site)
 
-### Helpful Resources:
+### Helpful Resources
 
 - [Web.dev tutorial](https://web.dev/learn/css/) (read up on the Box Model and CSS Selectors)
 - [CSS Reference of Everything](https://www.w3schools.com/cssref/index.php)
