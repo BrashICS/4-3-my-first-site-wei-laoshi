@@ -4,6 +4,10 @@
 
 There is a web-lesson [on my website](https://www.brash.ca/ics3uc/4/3) with a brief explanation and lots of links to amazing resources.
 
+- [Part 1: Organization](#part-1-organization)
+- [Part 2: Style (CSS)](#part-2-style-css)
+- [Your Task](#your-task)
+
 ## Part 1: Organization
 
 ![File Organization Chart](images/readme/file_org.png)
